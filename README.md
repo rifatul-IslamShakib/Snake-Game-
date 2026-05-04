@@ -33,8 +33,5 @@ Eat the food (**\***) to grow longer. Each piece of food increases your score. T
 #                  #
 ####################
 Score: 10
-# Future Improvements
-Add levels and increasing difficulty
-Implement high score saving system
-Add sound effects
-Create a graphical version using SDL/OpenGL
+
+
